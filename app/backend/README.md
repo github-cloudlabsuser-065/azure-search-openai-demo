@@ -1,4 +1,4 @@
-# Backend
+# README
 
 This project uses a number of Python packages for its functionality. The dependencies are listed in the `requirements.txt` file.
 
